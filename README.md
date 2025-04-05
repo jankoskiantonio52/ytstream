@@ -83,7 +83,7 @@ sudo pacman -S dotnet-sdk aspnet-runtime ffmpeg youtube-dl git
 
 ### Cloning the repository
 ```sh
-git clone https://github.com/mihail-8480/ytstream
+git clone https://github.com/jankoskiantonio/ytstream
 ```
 
 ### Running
